@@ -1,0 +1,1 @@
+package com.WangRui.mobileshop.fragment;import android.support.v4.app.Fragment;import com.WangRui.mobileshop.common.BaseFragment;import com.WangRui.mobileshop.R;/** * A simple {@link Fragment} subclass. */public class CartFragment extends BaseFragment {    @Override    public int getContentId() {        return R.layout.fragment_cart;    }}
