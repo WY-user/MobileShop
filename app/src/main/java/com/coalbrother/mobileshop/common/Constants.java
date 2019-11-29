@@ -1,0 +1,1 @@
+package com.coalbrother.mobileshop.common;//公共参数public class Constants {     public static final String BASE_URL="http://10.216.220.161:8080/MobileShop/";}
